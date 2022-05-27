@@ -6,3 +6,5 @@ Install chrome gnome extension:
 ```bash
 sudo apt install chrome-gnome-shell
 ```
+
+https://extensions.gnome.org/extension/4033/x11-gestures/
