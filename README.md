@@ -4,7 +4,7 @@ https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijb
 
 Install chrome gnome extension:
 ```bash
-sudo apt install chrome-gnome-shell
+sudo apt install chrome-gnome-shell touchegg
 ```
 
 https://extensions.gnome.org/extension/4033/x11-gestures/
