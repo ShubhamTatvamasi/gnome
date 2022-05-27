@@ -12,3 +12,7 @@ Install latest **touchegg**
 https://github.com/JoseExposito/touchegg/releases
 
 https://extensions.gnome.org/extension/4033/x11-gestures/
+
+https://extensions.gnome.org/extension/4679/burn-my-windows/
+
+
